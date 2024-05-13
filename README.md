@@ -1,9 +1,9 @@
 <h1 align="center">Hello👋, I'm fikri hisham-muddin</h1>
 <h3 align="center">I am a fullstack and mobile app developer</h3>
 
-- 🔭 I’m currently working as **Project Manager at Quelify**
+- 🔭 I’m currently working as **Software Developer at Krypton**
 
-- 🌱 I’m currently learning **Devops and NestJS**
+- 🌱 I’m currently focusing **Devops and Backend**
 
 - 📫 How to reach me **fikrichuck@gmail.com**
 
